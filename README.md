@@ -129,11 +129,11 @@
          style="border-radius: 50%; box-shadow: 0 0 5px rgba(104, 33, 122, 0.5);">
   </a>
 </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+   <td align="center" style="padding: 10px;">
+    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40"/>
-      </a>
-    </td>
+    </a>
+</td>
     <td align="center" style="padding: 10px;">
       <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="windows" width="40" height="40"/>
