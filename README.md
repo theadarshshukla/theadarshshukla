@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=32&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=850&lines=%F0%9F%90%8B+Hi%2C+I'm+Adarsh+Shukla+(%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%B5);Data+Analyst+%7C+Software+Developer;Published+Author+of+'Ilahabad+ki+Sangini';Bridging+Data+Logic+with+Creative+Literature)](https://adarshshukla.in)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=32&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=850&lines=%F0%9F%90%8B+Hi%2C+I'm+Adarsh+Shukla+;Data+Analyst+%7C+Software+Developer;Published+Author+of+'Ilahabad+ki+Sangini';Bridging+Data+Logic+with+Creative+Literature)](https://adarshshukla.in)
 
 <p align="center">
   <a href="https://adarshshukla.in" target="_blank">
@@ -190,29 +190,30 @@
 
 <p align="center">
   <a href="https://adarshshukla.in" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="Website" height="36" width="36" />
+    <img src="https://api.iconify.design/lucide:globe.svg?color=%236c63ff" alt="Website" height="36" width="36" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/theadarshshukla" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="36" width="36" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Theadarshshukla" target="_blank">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/theadarshshukla" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="36" width="36" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/adarshshukla___" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X / Twitter" height="36" width="36" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/the_adarshshukla" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="36" width="36" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/theadarshshukla" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="LeetCode" height="36" width="36" />
-  </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+ <a href="https://leetcode.com/theadarshshukla" target="_blank">
+  <img src="https://iconify.design" alt="LeetCode" height="36" width="36" />
+</a>
+
+  &nbsp;&nbsp;&nbsp;
   <a href="https://dev.to/theadarshshukla" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="36" width="36" />
   </a>
