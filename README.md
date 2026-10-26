@@ -42,7 +42,7 @@
         <h3>📚 Literary & Creative Realm</h3>
         <ul>
           <li>📖 <b>Published Author</b> of the Hindi novella <i>"इलाहाबाद की संगिनी"</i> (ISBN: 9789334496499).</li>
-          <li>✍️ <b>Hindi Poet (कवि)</b> performing recitations at open mic events & Kavi Sammelans.</li>
+          <li>✍️ <b>Hindi Poet (कवि)</li>
           <li>🌐 Creator & Developer of <b>Apna Sahitya</b> (Digital Literature Archive Platform).</li>
           <li>📫 Reach out: <a href="mailto:shuklaadarsh319@gmail.com"><b>shuklaadarsh319@gmail.com</b></a></li>
         </ul>
@@ -89,7 +89,6 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
